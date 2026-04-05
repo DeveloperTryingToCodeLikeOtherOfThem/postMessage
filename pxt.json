@@ -18,7 +18,9 @@
         "targetId": "arcade"
     },
     "supportedTargets": [
-        "arcade"
+        "arcade",
+        "microbit",
+        "adafruit"
     ],
     "preferredEditor": "tsprj",
     "languageRestriction": "javascript-only"
